@@ -1,2 +1,2 @@
-# zaquencer-overlay
-Laser cutting files for ZAQ Audio Zaquencer panels
+Red lines should be cut
+Blue areas should be engraved
